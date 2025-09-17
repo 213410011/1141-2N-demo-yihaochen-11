@@ -30,6 +30,6 @@
 
 ### W01-logs: git logs of W01 and share to htchung@gms.tku.edu.tw (teacher) and sian-0018 (TA)
 
-![](w01-logs.png)
+![](w01-log.png)
 
 ![](w01-share.png)
