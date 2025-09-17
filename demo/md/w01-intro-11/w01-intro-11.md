@@ -25,7 +25,7 @@
 ![](w01-p2-2.png)
 
 ```
-
+1fe965e Hao Yi Chen     Wed Sep 17 20:45:26 2025 +0800  Use vite to create a new React app
 ```
 
 ### W01-logs: git logs of W01 and share to htchung@gms.tku.edu.tw (teacher) and sian-0018 (TA)
