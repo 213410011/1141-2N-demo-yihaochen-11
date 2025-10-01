@@ -23,11 +23,11 @@
 ![](w02-p2.png)
 
 ```
-1accf21 Hao Yi Chen     Fri Sep 26 18:01:08 2025 +0800  W02-P2: refine code in w01-p1
+25764ba Hao Yi Chen     Fri Sep 26 18:03:46 2025 +0800  W02-P2: refine code in w01-p1
 ```
 
 ### W02-logs: git logs of W01 and share to htchung@gms.tku.edu.tw (teacher) and sian-0018 (TA)
 
-![](w01-log.png)
+![](w02-log.png)
 
-![](w01-share.png)
+![](w02-share.png)
